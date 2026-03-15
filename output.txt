@@ -1,0 +1,4 @@
+Pasteurized Milk Cheeses: 800
+Raw Milk Cheeses: 115
+Organic Cheeses with >41% Moisture: 53
+Most Common Milk Type: Cow
